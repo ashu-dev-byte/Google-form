@@ -1,0 +1,104 @@
+#Container01 {
+    border-radius: 10px;
+    border: 1.8px solid gainsboro;
+    height: 540px;
+    width: 750px;
+    text-align: left;
+    padding-left: 40px;
+    padding-top: 50px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+#Heading01 {
+    word-spacing: 0px;
+    font: 22px bold Google Sans, sans-serif;
+}
+
+#Image02 {
+    float: right;
+    padding-right: 20px;
+}
+
+#textinput {
+    border-radius: 5px;
+    border: 1px solid gainsboro;
+    height: 30px;
+    text-indent: 10px
+}
+
+#ftextinput {
+    border-radius: 5px;
+    border: 1px solid gainsboro;
+    height: 30px;
+    text-indent: 10px
+}
+#Para02 {
+    font: 13px bold Google Sans, sans-serif;
+    padding-left: 1px;
+    color: #5c8a8a;
+}
+
+#Para03 {
+    font: 17px bold Google Sans, sans-serif;
+    padding-left: 3px;
+    color: #005ce6;
+}
+
+#href01 {
+    text-decoration: none;
+    color: #005ce6;
+    font: 17px bold Google Sans, sans-serif;
+    word-spacing: -2px;
+}
+
+#Button01 {
+    background-color: #006CD2;
+    border-radius: 4px;
+    position: relative;
+    cursor: pointer;
+    left: 180px;
+    border: 0px;
+    color: aliceblue;
+    width: 80px;
+    height: 40px;
+}
+
+#Id01 {
+    text-decoration: none;
+    float: left;
+    padding-left: 380px;
+    color:  #3d5c5c;
+}
+
+#Container02{
+    float: right;
+    word-spacing: 10px;
+    width: 900px;
+}
+
+#Id02{
+    text-decoration: none;
+    color:  #3d5c5c;
+}
+
+.Class01 {
+    position: relative;
+}
+
+#textinput02 {
+    border-radius: 5px;
+    border: 1px solid gainsboro;
+    height: 30px;
+    width: 327px;
+    text-indent: 10px
+}
+
+.Class001 {
+    position: absolute;
+    left: 230px;
+    font: 16px bold Gogle Sans, sans-serif;
+    color: #222733;
+    padding-top: 9px;
+}
+

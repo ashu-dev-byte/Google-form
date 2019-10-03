@@ -1,0 +1,60 @@
+#Container05 {
+    border-radius: 10px;
+    border: 1.8px solid gainsboro;
+    height: 600px;
+    width: 750px;
+    text-align: left;
+    padding-left: 40px;
+    padding-top: 50px;
+    margin-top: 50px;
+    margin-bottom: 10px
+}
+
+#Heading04a {
+    word-spacing: 0px;
+    font: 22px bold Google Sans, sans-serif;
+}
+
+#Split_Left{
+    width: 50%;
+    height: 350px;
+    overflow-y: scroll;
+    text-align: left;
+    float: left;
+    padding-right: 15px;
+}
+
+#Agree{
+    background-color: #006CD2;
+    border-radius: 4px;
+    position: relative;
+    cursor: pointer;
+    left: -245px;
+    top: 81px;
+    border: 0px;
+    color: aliceblue;
+    width: 80px;
+    height: 34px;
+}
+
+#Container02{
+    float: right;
+    word-spacing: 10px;
+    width: 150px;
+    margin-right: 380px;
+    margin-top: -20px;
+
+}
+
+#Id01 {
+    position: relative;
+    text-decoration: none;
+    float: centre;
+    margin-left: -590px;
+    color:  #3d5c5c;
+}
+
+#Id02{
+    text-decoration: none;
+    color: #3d5c5c;
+}

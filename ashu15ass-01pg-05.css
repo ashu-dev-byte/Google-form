@@ -1,0 +1,158 @@
+#Parent01 {
+    border-radius: 10px;
+    border: 1.8px solid gainsboro;
+    height: 600px;
+    width: 1200px;
+    text-align: left;
+    padding-left: 40px;
+    padding-top: 50px;
+    margin-top: 50px;
+    margin-bottom: 10px
+}
+
+#Search01{
+    position: absolute;
+    background-color: gainsboro;
+    opacity: 0.72;
+    width: 810px;
+    height: 38px;
+    margin-left: 20px;
+    margin-top: -40px;
+    border: 2px solid lightgray;
+    text-indent: 50px;
+    border-radius: 8px;
+}
+
+#Para01 {
+    word-spacing: 0px;
+    font: 24px solid Google Sans, sans-serif;
+}
+
+#Para02 {
+    word-spacing: 0px;
+    font: 17px bold Google Sans, sans-serif;
+    margin-top: 19px;
+    color: #3d5c5e;
+}
+
+#Search02{
+    position: absolute;
+    width: 29px;
+    margin-top: -33px;
+    margin-left: 27px;
+    opacity: 1.0;
+}
+
+#Img01{
+    float: right;
+    margin-top: -47px;
+    padding-right: 4px;
+}
+
+#Split_Left{
+    position: absolute;
+    float: left;
+    margin-top: 40px;
+    width: 300px;
+    height: 420px;
+    margin-left: -49px;
+}
+
+#Split_Right{
+    position: relative;
+    float: right;
+    margin-top: 40px;
+    width: 800px;
+    height: 520px;
+    margin-right: -74px;
+}
+
+#I01:hover{
+    padding-left: 15px;
+    box-shadow: 0 0 1.6px 1.6px #0066ff;
+    border-radius: 6px;
+}
+
+#I02:hover{
+    padding-left: 15px;
+    box-shadow: 0 0 1.6px 1.6px #0066ff;
+    border-radius: 6px;
+}
+
+#I03:hover{
+    padding-left: 15px;
+    box-shadow: 0 0 1.6px 1.6px #0066ff;
+    border-radius: 6px;
+}
+
+#I04:hover{
+    padding-left: 15px;
+    box-shadow: 0 0 1.6px 1.6px #0066ff;
+    border-radius: 6px;
+}
+
+#I05:hover{
+    padding-left: 15px;
+    box-shadow: 0 0 1.6px 1.6px #0066ff;
+    border-radius: 6px;
+}
+
+#I06:hover{
+    padding-left: 15px;
+    box-shadow: 0 0 1.6px 1.6px #0066ff;
+    border-radius: 6px;
+}
+
+#I07:hover{
+    padding-left: 7px;
+    box-shadow: 0 0 1.6px 1.6px #0066ff;
+    border-radius: 6px;
+}
+
+#I08:hover{
+    padding-left: 15px;
+    box-shadow: 0 0 1.6px 1.6px #0066ff;
+    border-radius: 6px;
+}
+
+#Agree{
+    background-color: #006CD2;
+    border-radius: 4px;
+    position: relative;
+    cursor: pointer;
+    left: 15px;
+    top: 10px;
+    border: 0px;
+    color: aliceblue;
+    width: 90px;
+    height: 39px;
+}
+
+#Last01{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

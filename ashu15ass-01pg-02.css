@@ -1,0 +1,135 @@
+#Container03 {
+    border-radius: 10px;
+    border: 1.8px solid gainsboro;
+    height: 580px;
+    width: 750px;
+    text-align: left;
+    padding-left: 40px;
+    padding-top: 50px;
+    margin-top: 50px;
+    margin-bottom: 10px
+}
+
+#Back{
+    text-decoration: none;
+    color: #005ce6;
+    font-weight: bold;
+}
+
+#Button01 {
+    background-color: #006CD2;
+    border-radius: 4px;
+    position: relative;
+    cursor: pointer;
+    left: 268px;
+    border: 0px;
+    color: aliceblue;
+    width: 80px;
+    height: 34px;
+}
+
+#Container02{
+    float: right;
+    word-spacing: 10px;
+    width: 150px;
+    margin-right: 10px;
+}
+
+#Id01 {
+    position: absolute;
+    text-decoration: none;
+    float: left;
+    margin-left: -20px;
+    color:  #3d5c5c;
+}
+
+#Id02{
+    text-decoration: none;
+    color:  #3d5c5c;
+}
+
+#Heading02a {
+    word-spacing: 0px;
+    font: 22px bold Google Sans, sans-serif;
+}
+
+#Para01 {
+    word-spacing: 0px;
+    font: 13px bold Google Sans, sans-serif;
+    margin-top: 19px;
+    color: #3d5c5e;
+}
+
+#Para02 {
+    position: relative;
+    font: 17px bold Google Sans, sans-serif;
+    width: 260px;
+    margin-left: -10px;
+    color: #005ce6;
+}
+
+#Small {
+    position: absolute;
+    color: gainsboro;
+    padding-left: -2px;
+    padding-bottom: -2.5px;
+    display: inline;
+}
+
+#Select01 {
+    border: 1.7px bold lightgray;
+    border-radius: 5px;
+    height: 30px;
+    width: 110px;
+}
+
+#Select02 {
+    border: 1.7px bold lightgray;
+    border-radius: 5px;
+    height: 30px;
+    width: 385px;
+}
+
+#txtinput01{
+    border: 1.4px solid lightgray;
+    border-radius: 5px;
+    height: 27px;
+    width: 110px;
+    margin-left: 20px;
+    text-indent: 5px;
+}
+
+#Margin01 {
+    position: relative;
+    color: #005ce6;
+    font: bold;
+    margin-left: 90px;
+    margin-top: -45px;
+    background-color: white;
+    width: 160px;
+}
+
+#Img02 {
+    position: relative;
+    float: right;
+    padding-right: 12px;
+    margin-top: -100px;
+}
+
+#textinput {
+    border-radius: 5px;
+    border: 1.8px solid lightgray;
+    height: 30px;
+    width: 287px;
+    text-indent: 10px
+}
+
+select:required:invalid {
+  color: gray;
+}
+option[value=""][disabled] {
+  display: none;
+}
+option {
+  color: black;
+}
